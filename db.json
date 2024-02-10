@@ -1,0 +1,36 @@
+{
+  "todos": [
+    {
+      "id": "1603",
+      "content": "music",
+      "category": "personal",
+      "done": false,
+      "editable": false,
+      "createdAt": 1707551149889
+    },
+    {
+      "id": "379f",
+      "content": "basketball",
+      "category": "business",
+      "done": false,
+      "editable": false,
+      "createdAt": 1707555613703
+    },
+    {
+      "id": "6107",
+      "content": "work",
+      "category": "business",
+      "done": false,
+      "editable": false,
+      "createdAt": 1707556118608
+    },
+    {
+      "id": "b5ed",
+      "content": "Vikas Aagarwal physics",
+      "category": "business",
+      "done": false,
+      "editable": false,
+      "createdAt": 1707576290627
+    }
+  ]
+}
